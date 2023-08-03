@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/879750370098751611/b0d9b009df5e4f91b8e2405b2ef35b21/artifacts
+end_time: 1690653257950
+entry_point_name: ''
+experiment_id: '879750370098751611'
+lifecycle_stage: active
+run_id: b0d9b009df5e4f91b8e2405b2ef35b21
+run_name: judicious-snake-867
+run_uuid: b0d9b009df5e4f91b8e2405b2ef35b21
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690653251132
+status: 3
+tags: []
+user_id: Dell

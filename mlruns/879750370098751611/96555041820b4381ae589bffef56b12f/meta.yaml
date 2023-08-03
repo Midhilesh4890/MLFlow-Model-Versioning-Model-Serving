@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/879750370098751611/96555041820b4381ae589bffef56b12f/artifacts
+end_time: 1690723121978
+entry_point_name: ''
+experiment_id: '879750370098751611'
+lifecycle_stage: active
+run_id: 96555041820b4381ae589bffef56b12f
+run_name: clean-sloth-355
+run_uuid: 96555041820b4381ae589bffef56b12f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690723119068
+status: 3
+tags: []
+user_id: Dell

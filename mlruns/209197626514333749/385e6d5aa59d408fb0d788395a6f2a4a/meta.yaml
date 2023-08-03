@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/209197626514333749/385e6d5aa59d408fb0d788395a6f2a4a/artifacts
+end_time: 1690652693601
+entry_point_name: ''
+experiment_id: '209197626514333749'
+lifecycle_stage: active
+run_id: 385e6d5aa59d408fb0d788395a6f2a4a
+run_name: debonair-squirrel-48
+run_uuid: 385e6d5aa59d408fb0d788395a6f2a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690652686492
+status: 3
+tags: []
+user_id: Dell

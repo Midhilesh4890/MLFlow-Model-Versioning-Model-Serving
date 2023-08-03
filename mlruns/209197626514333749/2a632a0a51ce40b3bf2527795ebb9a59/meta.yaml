@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/209197626514333749/2a632a0a51ce40b3bf2527795ebb9a59/artifacts
+end_time: 1690651686925
+entry_point_name: ''
+experiment_id: '209197626514333749'
+lifecycle_stage: active
+run_id: 2a632a0a51ce40b3bf2527795ebb9a59
+run_name: upbeat-gnat-423
+run_uuid: 2a632a0a51ce40b3bf2527795ebb9a59
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690651681470
+status: 3
+tags: []
+user_id: Dell

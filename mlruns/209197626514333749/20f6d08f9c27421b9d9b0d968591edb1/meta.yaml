@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/209197626514333749/20f6d08f9c27421b9d9b0d968591edb1/artifacts
+end_time: 1690652389569
+entry_point_name: ''
+experiment_id: '209197626514333749'
+lifecycle_stage: active
+run_id: 20f6d08f9c27421b9d9b0d968591edb1
+run_name: smiling-elk-46
+run_uuid: 20f6d08f9c27421b9d9b0d968591edb1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690652385653
+status: 3
+tags: []
+user_id: Dell

@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/MLFLowProject/mlruns/209197626514333749/b51a891b2a454beebbc599d0beefc947/artifacts
+end_time: 1690652567795
+entry_point_name: ''
+experiment_id: '209197626514333749'
+lifecycle_stage: active
+run_id: b51a891b2a454beebbc599d0beefc947
+run_name: unique-shad-39
+run_uuid: b51a891b2a454beebbc599d0beefc947
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690652552187
+status: 3
+tags: []
+user_id: Dell
